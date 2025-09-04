@@ -1,6 +1,6 @@
 # Danilo Araújo | Fullstack Developer & Data Analyst  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilooar) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuinstagram)
 
 ---
@@ -8,8 +8,7 @@
 ## 👨‍💻 About Me  
 💻 Fullstack Developer & Data Analyst  
 📚 Sempre aprendendo e aplicando novas tecnologias para criar soluções eficientes e inteligentes  
-📈 Apaixonado por dados, desenvolvimento web e otimização de processos  
-✉️ **seuemail@exemplo.com**  
+✉️ **devdanilobr@gmail.com**  
 
 ---
 
@@ -41,4 +40,4 @@
 ---
 
 ## 💻 Portfolio  
-👉 Confira meu portfólio com projetos e currículo: [**Meu Portfolio**](https://seuportfolio.com)  
+👉 Confira meu portfólio com projetos e currículo: [**Meu Portfolio**](https://portifolio-new-five.vercel.app/)  
