@@ -9,6 +9,8 @@
 💻 Fullstack Developer & Data Analyst  
 📚 Sempre aprendendo e aplicando novas tecnologias para criar soluções eficientes e inteligentes  
 ✉️ **devdanilobr@gmail.com**  
+⚠️ Meu antigo GitHub era [@daniloaor](https://github.com/daniloaor). Todos os novos projetos e atualizações estão neste repositório.
+
 
 ---
 
